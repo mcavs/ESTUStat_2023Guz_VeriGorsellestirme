@@ -1,6 +1,6 @@
 # Ödev 2
 
-Yalnızca atandığınız (**Case 1:** EB, BES, HFS; **Case 2:** FV, ÖŞK, EK; **Case 3:** ZÖ, KC; **Case 4:** MEA, YY, BÇ) Case üzerindeki gerekli çalışmaları yaptığınız, "İsimSoyisim" şeklinde isimlendirdiğiniz ve PDF formatında hazırladığınız raporunuzu 3 Kasım 2023 günü saat 23:59'a kadar bu klasöre yüklemeniz gerekmektedir.
+Yalnızca atandığınız (**Case 1:** EB, BES, HFS; **Case 2:** FV, ÖŞK, EK; **Case 3:** ZÖ, KC; **Case 4:** MEA, YY, BÇ) Case üzerindeki gerekli çalışmaları yaptığınız, "İsimSoyisim" şeklinde isimlendirdiğiniz ve PDF formatında hazırladığınız raporunuzu 10 Kasım 2023 günü saat 23:59'a kadar bu klasöre yüklemeniz gerekmektedir.
 
 **Case 1)** `DALEX` paketinde bulunan `apartments` veri setini kullanarak aşağıda verilen sorulara yanıt olabilecek görselleştirme çalışmalarını gerçekleştiriniz:
   
