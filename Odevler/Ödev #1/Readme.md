@@ -6,4 +6,4 @@
 
 * belirlediğiniz konu başlığı,
 * konu ve detaylarını anlatan en az 300 kelimeden oluşan bir özet hazırlayınız
-* kullanacağınız verisetini tanıtınız ve kaynağını belirtiniz.
+* kullanacağınız verisetini tanıtınız ve kaynağını (veri setini oluşturan veya paylaşan kurum ve kuruluş ile erişim linki) belirtiniz.
