@@ -7,3 +7,5 @@
 * belirlediğiniz konu başlığı,
 * konu ve detaylarını anlatan en az 300 kelimeden oluşan bir özet hazırlayınız
 * kullanacağınız verisetini tanıtınız ve kaynağını (veri setini oluşturan veya paylaşan kurum ve kuruluş ile erişim linki) belirtiniz.
+
+### Proje detayları için [Projeler](https://github.com/mcavs/ESTUStat_2023Guz_VeriGorsellestirme/tree/main/Projeler) klasörüne göz atabilirsiniz.
