@@ -12,7 +12,7 @@ Dönem boyunca projenin ilerleyişi ödevler üzerinden izlenecek ve son değerl
     
 ## Sunum
 
-Proje sunumları, X Ocak 2024 Cuma günü saat 14.00-16.00 arasında, herkesin açık olarak Fen Fakültesi Fuaye Alanı'nda yapılması planlanmaktatır. Bu saat aralığında tüm çalışmanın posterlerinin alanda hazır bulunacak panolara asılması gerekmektedir. Gerekli hazırlığın en geç 15 dakika öncesinde tamamlanmış olması beklenmetedir. 
+Proje sunumları, 5 Ocak 2024 Cuma günü saat 14.00-16.00 arasında, herkesin açık olarak Fen Fakültesi Fuaye Alanı'nda yapılması planlanmaktatır. Bu saat aralığında tüm çalışmanın posterlerinin alanda hazır bulunacak panolara asılması gerekmektedir. Gerekli hazırlığın en geç 15 dakika öncesinde tamamlanmış olması beklenmetedir. 
 
 
 ## Poster Hazırlarken Dikkat Edilmesi Gerekenler
