@@ -1,3 +1,7 @@
+# Ödev 3
+
+Aşağıda yer alan case'lerden istediğiniz ikisini seçerek, (1) Özet bölümü, (2) case'lerde yer alan veri setinin tanıtımını içeren bir bölüm ve (3) case'lerde yer alan araştırma sorularının her biri bir bölüm olacak şekilde oluşturduğunuz (bu bölümlerde kullanılan kodlar, grafik ve grafiğe ilişkin işe yarar, özenli yorumlar yer almalı), "İsimSoyisim" olarak isimlendirdiğiniz PDF formatındaki hazırladığınız raporunuzu 30 Kasım Perşembe günü saat 23:59'a kadar e-posta ile [mustafacavus@eskisehir.edu.tr](mustafacavus@eskisehir.edu.tr) adresine göndermeniz gerekmektedir.
+
 ## Case'ler
 
 **1. NBA oyuncu istatistikleri** - Veri kaynağı: [https://www.kaggle.com/datasets/vivovinco/20222023-nba-player-stats-regular](https://www.kaggle.com/datasets/vivovinco/20222023-nba-player-stats-regular)
@@ -113,9 +117,9 @@
 ## Notlandırma
 
 * Özet - 10 puan,
-* Her case - 30 puan,
-* Her casede veri tanıtımı - 6 puan,
-* Her casedeki soru başına - (24 / soru sayısı) puan,
+* Her case - 45 puan,
+ * Her casede veri tanıtımı - 10 puan,
+ * Her casedeki soru başına - (35 / soru sayısı) puan,
 * Yorum içermeyen grafikler notlandırılmayacaktır.
 
 
@@ -128,10 +132,3 @@
 * Kolay okunur bir rapor oluşturabilmek için düzenli başlık kullanmaktan ve yeni sayfaya geçmekten çekinmeyin.
 
 * Grafikleri oluştururuken karşılaşabileceğiniz bazı sorunların çözümlerini için gereken ipuçlarını [burada](https://github.com/mcavs/ESTUStat_2022Guz_VeriGorsellestirme/issues/9) bulabilirsiniz.
-
-* OPSİYONEL bölüm ile ilgili gerekli açıklamaları derste paylaşıyorum/paylaşacağım.
-
-* Herhangi bir sorun ile karşılaşmanız durumunda öncelikle **Google**'layabilir, ikinci seçenek olarak `Issues` bölümü üzerinden yardım isteyebilir (buradaki sorulara hep birlikte yanıt arar, bildiklerimizi yanıtlarsak çok memnun olurum), son seçenek olarak bana e-mail ile ulaşabilirsiniz.
-
-
-
