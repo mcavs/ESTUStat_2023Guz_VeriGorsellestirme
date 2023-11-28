@@ -34,6 +34,13 @@ Aşağıdaki bağlantıları kullanarak haftalık ders kaydı videosu, sunum, ö
 
 [Sunum](https://github.com/mcavs/ESTUStat_2022Guz_VeriGorsellestirme/blob/main/Sunumlar/VG_Hafta5.pdf) ❖ [R Alıştırmaları](https://github.com/mcavs/ESTUStat_2022Guz_VeriGorsellestirme/blob/main/Al%C4%B1%C5%9Ft%C4%B1rmalar/VG_al%C4%B1s%CC%A7t%C4%B1rma_h5.R) 
 
+### Hafta 6. İlişkilerin Görselleştirilmesi - 24 Kasım 2023 14:00  - İL244
+
+[Sunum](https://github.com/mcavs/ESTUStat_2022Guz_VeriGorsellestirme/blob/main/Sunumlar/VG_Hafta6.pdf) ❖ [R Alıştırmaları](https://github.com/mcavs/ESTUStat_2022Guz_VeriGorsellestirme/blob/main/Al%C4%B1%C5%9Ft%C4%B1rmalar/VG_al%C4%B1s%CC%A7t%C4%B1rma_h6.R)
+
+### Hafta 7. Zaman Serilerinin Görselleştirilmesi - 1 Aralık 2023 14:00  - İL244
+
+ ❖ [Sunum](https://github.com/mcavs/ESTUStat_2022Guz_VeriGorsellestirme/blob/main/Sunumlar/VG_Hafta6_2.pdf) ❖ [R Alıştırmaları](https://github.com/mcavs/ESTUStat_2022Guz_VeriGorsellestirme/blob/main/Al%C4%B1%C5%9Ft%C4%B1rmalar/VG_al%C4%B1s%CC%A7t%C4%B1rma_h7.R) 
 
 ...
 
