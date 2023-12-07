@@ -1,6 +1,6 @@
 # Ödev 4
 
-Aşağıda yer alan case'lerden istediğiniz ikisini seçerek, (1) Özet bölümü, (2) case'lerde yer alan veri setinin tanıtımını içeren bir bölüm ve (3) case'lerde yer alan araştırma sorularının her biri bir bölüm olacak şekilde oluşturduğunuz (bu bölümlerde kullanılan kodlar, grafik ve grafiğe ilişkin işe yarar, özenli yorumlar yer almalı), "İsimSoyisim" olarak isimlendirdiğiniz PDF formatındaki hazırladığınız raporunuzu 15 Kasım Cuma günü saat 23:59'a kadar e-posta ile [mustafacavus@eskisehir.edu.tr](mustafacavus@eskisehir.edu.tr) adresine göndermeniz gerekmektedir.
+Aşağıda yer alan case'lerden BİR ÖNCEKİ ÖDEVDE KULLANMADIKLARINIZ ARASINDAN istediğiniz ikisini seçerek, (1) Özet bölümü, (2) case'lerde yer alan veri setinin tanıtımını içeren bir bölüm ve (3) case'lerde yer alan araştırma sorularının her biri bir bölüm olacak şekilde oluşturduğunuz (bu bölümlerde kullanılan kodlar, grafik ve grafiğe ilişkin işe yarar, özenli yorumlar yer almalı), "İsimSoyisim" olarak isimlendirdiğiniz PDF formatındaki hazırladığınız raporunuzu 15 Kasım Cuma günü saat 23:59'a kadar e-posta ile [mustafacavus@eskisehir.edu.tr](mustafacavus@eskisehir.edu.tr) adresine göndermeniz gerekmektedir.
 
 ## Case'ler
 
@@ -94,9 +94,9 @@ Aşağıda yer alan case'lerden istediğiniz ikisini seçerek, (1) Özet bölüm
 ## Notlandırma
 
 * Özet - 10 puan,
-* Her case - 30 puan,
-* Her casede veri tanıtımı - 6 puan,
-* Her casedeki soru başına - (24 / soru sayısı) puan,
+* Her case - 45 puan,
+ * Her casede veri tanıtımı - 10 puan,
+ * Her casedeki soru başına - (35 / soru sayısı) puan,
 * Yorum içermeyen grafikler notlandırılmayacaktır.
 
 
