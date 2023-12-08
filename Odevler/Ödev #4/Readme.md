@@ -1,6 +1,6 @@
 # Ödev 4
 
-Aşağıda yer alan case'lerden BİR ÖNCEKİ ÖDEVDE KULLANMADIKLARINIZ ARASINDAN istediğiniz ikisini seçerek, (1) Özet bölümü, (2) case'lerde yer alan veri setinin tanıtımını içeren bir bölüm ve (3) case'lerde yer alan araştırma sorularının her biri bir bölüm olacak şekilde oluşturduğunuz (bu bölümlerde kullanılan kodlar, grafik ve grafiğe ilişkin işe yarar, özenli yorumlar yer almalı), "İsimSoyisim" olarak isimlendirdiğiniz PDF formatındaki hazırladığınız raporunuzu 15 Kasım Cuma günü saat 23:59'a kadar e-posta ile [mustafacavus@eskisehir.edu.tr](mustafacavus@eskisehir.edu.tr) adresine göndermeniz gerekmektedir.
+Aşağıda yer alan case'lerden BİR ÖNCEKİ ÖDEVDE KULLANMADIKLARINIZ ARASINDAN istediğiniz ikisini seçerek, (1) Özet bölümü, (2) case'lerde yer alan veri setinin tanıtımını içeren bir bölüm ve (3) case'lerde yer alan araştırma sorularının her biri bir bölüm olacak şekilde oluşturduğunuz (bu bölümlerde kullanılan kodlar, grafik ve grafiğe ilişkin işe yarar, özenli yorumlar yer almalı), "İsimSoyisim" olarak isimlendirdiğiniz PDF formatındaki hazırladığınız raporunuzu 15 Aralık Cuma günü saat 23:59'a kadar e-posta ile [mustafacavus@eskisehir.edu.tr](mustafacavus@eskisehir.edu.tr) adresine göndermeniz gerekmektedir.
 
 ## Case'ler
 
