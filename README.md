@@ -45,6 +45,11 @@ Aşağıdaki bağlantıları kullanarak haftalık ders kaydı videosu, sunum, ö
 ### Hafta 8. Mekansal Verilerin Görselleştirilmesi - 8 Aralık 2023 14:00 - İL244
 
 [Sunum](https://github.com/mcavs/ESTUStat_2022Guz_VeriGorsellestirme/blob/main/Sunumlar/VG_Hafta7.pdf) ❖ [R leaflet uygulamaları](https://github.com/mcavs/ESTUStat_2022Guz_VeriGorsellestirme/blob/main/Al%C4%B1%C5%9Ft%C4%B1rmalar/leaflet.R) ❖ [R TRmaps uygulamaları](https://github.com/mcavs/ESTUStat_2022Guz_VeriGorsellestirme/blob/main/Al%C4%B1%C5%9Ft%C4%B1rmalar/TRmaps.R) 
+
+### Hafta 9. Görsel Tasarım İlkeleri ve Renk Kullanımında Yapılan Hatalar - 22 Aralık 2023 14:00  - İL244
+
+[Sunum](https://github.com/mcavs/ESTUStat_2022Guz_VeriGorsellestirme/blob/main/Sunumlar/VG_Hafta8.pdf) ❖ [R textvis uygulamaları](https://github.com/mcavs/ESTUStat_2022Guz_VeriGorsellestirme/blob/main/Al%C4%B1%C5%9Ft%C4%B1rmalar/R_textvis.R)
+
 ...
 
 
