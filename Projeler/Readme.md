@@ -7,7 +7,14 @@ Ele alınan bir problemi - verilmek istenen bir mesajı - veri hikaye anlatıcı
 
 ## Değerlendirme
 
-Dönem boyunca projenin ilerleyişi ödevler üzerinden izlenecek ve son değerlendirme proje sunumlarında hazırlanan materyal ve gerçekleştirilen sunuma göre gerçekleştirilecektir.
+Hazırlanan posterler, (1) İçerik ve anlatım (20 puan), (2) farklı grafiklerin kullanımı (30 puan), (3) uygun grafik seçimi ve gerekli düzenlemelerin yapılması (30 puan) maddelerine göre değerlendirilecektir.
+
+Posterde kullanılan grafiklerin hazırlanmasında kullanılan tüm içeriği kapsayan bir GitHub Repository'sinin hazırlanması (20 Puan). Repo aşağıdakileri içermelidir:
+
+* Readme.md sayfası (Grafik çıktılar, grafikleri hazırlamak için kullanılan kodlar, veri kaynağı bilgisini içermelidir.)
+* Grafik dosyaları (png ya da pdf formatında).
+* Kod dosyaları(.R dosyası formatında)
+* Veri dosyası (.csv formatında)
     
     
 ## Sunum
