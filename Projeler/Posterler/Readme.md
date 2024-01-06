@@ -30,3 +30,32 @@
 <img src="https://github.com/mcavs/ESTUStat_2023Guz_VeriGorsellestirme/blob/main/Projeler/Posterler/O%CC%88yku%CC%88S%CC%A7o%CC%88lenKarakaya.png" width="800">
 
 ---
+
+## [Eskişehir Teknik Üniversitesi Öğrenci Profili](https://github.com/halimfurkansargin/2023-2024_Veri_Gorsellestirme_Projesi) - Halim Furkan SARGIN ([@halimfurkansargin](https://github.com/halimfurkansargin)) 
+
+<img src="https://github.com/mcavs/ESTUStat_2023Guz_VeriGorsellestirme/blob/main/Projeler/Posterler/HalimFurkanSarg%C4%B1n.png" width="800">
+
+---
+
+## [Yıllara Göre NBA'in Değişimi](https://github.com/Kaancici/yillara_gore_nba) - Kaan CİCİGÜN ([@Kaancici](https://github.com/Kaancici)) 
+
+<img src="https://github.com/mcavs/ESTUStat_2023Guz_VeriGorsellestirme/blob/main/Projeler/Posterler/KaanCicigu%CC%88n.png" width="800">
+
+---
+
+## [Eğitim Arenasında Türkiye: PISA Performansı Analizi](https://github.com/fatmanurvarlik/PISA_Visualization) - Fatmanur VARLIK ([@fatmanurvarlik](https://github.com/fatmanurvarlik)) 
+
+<img src="https://github.com/mcavs/ESTUStat_2023Guz_VeriGorsellestirme/blob/main/Projeler/Posterler/FatmanurVarl%C4%B1k.png" width="800">
+
+---
+
+## [İstanbul'daki Binaların Olası Bir Deprem Açısından Değerlendirilmesi](https://github.com/ozcelikzeynep/Veri-Gorsellestirme) - Zeynep ÖZÇELİK ([@ozcelikzeynep](https://github.com/ozcelikzeynep)) 
+
+<img src="https://github.com/mcavs/ESTUStat_2023Guz_VeriGorsellestirme/blob/main/Projeler/Posterler/ZeynepO%CC%88zc%CC%A7elik.png" width="800">
+
+
+
+
+
+
+
