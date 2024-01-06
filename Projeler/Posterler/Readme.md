@@ -1,4 +1,5 @@
 # Posterler
+Projelerin kaynak kodları ve verisetleri için başlıklarına tıklayarak repository'sine göz atabilirsiniz.
 
 
 ## [Dil Konuşma Bozukluğu ve Kekemelik](https://github.com/Yigitcanyardimci/Dil-Konusma-Bozuklugu) - Yiğitcan YARDIMCI ([@Yigitcanyardimci](https://github.com/Yigitcanyardimci)) 
