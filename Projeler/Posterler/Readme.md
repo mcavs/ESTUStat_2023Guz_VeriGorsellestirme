@@ -18,3 +18,15 @@
 <img src="https://github.com/mcavs/ESTUStat_2023Guz_VeriGorsellestirme/blob/main/Projeler/Posterler/BurakEmreSevinc%CC%A7.png" width="800">
 
 ---
+
+## [Küresel Gıda Güvenliği Endeksi](https://github.com/berkaycayan/Global-Food-Security-Index-Data-Visualization) - Berkay ÇAYAN ([@berkaycayan](https://github.com/berkaycayan)) 
+
+<img src="https://github.com/mcavs/ESTUStat_2023Guz_VeriGorsellestirme/blob/main/Projeler/Posterler/BerkayC%CC%A7ayan.png" width="800">
+
+---
+
+## [Başarısınız Mısınız Yoksa Uykusuz Musunuz?](https://github.com/oskarakaya/ESTU-Veri_Gorsellestirme_Projesi) - Öykü Şölen KARAKAYA ([@oskarakaya](https://github.com/oskarakaya)) 
+
+<img src="https://github.com/mcavs/ESTUStat_2023Guz_VeriGorsellestirme/blob/main/Projeler/Posterler/O%CC%88yku%CC%88S%CC%A7o%CC%88lenKarakaya.png" width="800">
+
+---
